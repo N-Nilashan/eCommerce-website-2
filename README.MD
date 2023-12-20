@@ -6,7 +6,9 @@ This project is a simple yet effective e-commerce website showcasing my skills i
 
 ## Features
 
-### CSS Display Properties: Leveraging CSS display properties, I've crafted a visually engaging contact page, a streamlined navigation menu, and a well-organized product listing.
+### CSS Display Properties: 
+
+Leveraging CSS display properties, I've crafted a visually engaging contact page, a streamlined navigation menu, and a well-organized product listing.
 
 ## Technologies Used
 Html and CSS
