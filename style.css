@@ -25,7 +25,7 @@ ul {
 }
 
 li {
-    color: gray;
+    color: rgb(255, 254, 254);
     cursor: pointer;
 }
 
@@ -67,7 +67,7 @@ input {
 #about {
 
     text-align: center;
-    margin-top: 0px;
+
     margin-left: 40px;
     margin-right: 40px;
 
@@ -76,10 +76,12 @@ input {
 
 #contact {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
 
+
 }
+
 
 .address {
     display: inline-block;
@@ -101,7 +103,7 @@ input {
 }
 
 hr {
-    min-height: 10px;
+    min-height: 20px;
 
 }
 
