@@ -74,50 +74,21 @@ input {
     padding: 30px;
 }
 
-#contact {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
-
-
+#contactDetails {
+    display: flex;
+    justify-content: space-around;
 }
 
 
-.address {
-    display: inline-block;
-    margin-left: 10%;
-    margin-bottom: 40px;
-    text-align: center;
-}
-
-.phone {
-    text-align: center;
-    display: inline-block;
-    margin-left: 21%;
-}
-
-.branches {
-    text-align: center;
-    display: inline-block;
-    margin-left: 21%;
-}
-
-hr {
-    min-height: 20px;
-
-}
 
 body {
     background-color: antiquewhite;
 
 }
 
-footer {
-    text-align: center;
-    margin: 50px;
+footer{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
 }
 
-h3 {
-    display: inline-block;
-    text-align: center;
-}
